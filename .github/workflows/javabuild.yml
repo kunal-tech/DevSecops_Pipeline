@@ -48,4 +48,4 @@ jobs:
       - name: Upload JAR to JFrog
         run: |
            jf rt u "target/*.jar" "petjfrog-repo/"     
-    # comment 
+    # comment A B
